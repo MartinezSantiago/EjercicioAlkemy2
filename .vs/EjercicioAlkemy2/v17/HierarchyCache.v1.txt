@@ -1,0 +1,235 @@
+﻿++Solución "EjercicioAlkemy2" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:EjercicioAlkemy2.sln
+++EjercicioAlkemy2
+i:{00000000-0000-0000-0000-000000000000}:EjercicioAlkemy2
+++Connected Services 
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>383
+++Base de datos de SQL Server (ConnectionStrings:Connection)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>1085
+++Dependencias
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>382
+++Analizadores
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:analizadores
+++Marcos de trabajo
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:marcos de trabajo
+++Paquetes
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:paquetes
+++Properties
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\properties\
+++launchSettings.json
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\properties\launchsettings.json
+++wwwroot
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\
+++css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\css\
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\js\
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\
+++favicon.ico
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\favicon.ico
+++Context
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\context\
+++AppDbContext.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\context\appdbcontext.cs
+++Controllers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\controllers\
+++CommentsController.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\controllers\commentscontroller.cs
+++HomeController.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\controllers\homecontroller.cs
+++PostsController.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\controllers\postscontroller.cs
+++UsersController.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\controllers\userscontroller.cs
+++Migrations
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\migrations\
+++20220123122702_initialCreate.cs
+++AppDbContextModelSnapshot.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\migrations\appdbcontextmodelsnapshot.cs
+++Models
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\models\
+++Comment.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\models\comment.cs
+++ErrorViewModel.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\models\errorviewmodel.cs
+++Post.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\models\post.cs
+++User.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\models\user.cs
+++NewFolder
+++Repository
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\repository\
+++IRepository.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\repository\irepository.cs
+++IRepositorys.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\repository\irepositorys.cs
+++Repository.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\repository\repository.cs
+++Repositorys.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\repository\repositorys.cs
+++appsettings.json
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\appsettings.json
+++appsettings.Development.json
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\appsettings.development.json
+++Program.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\program.cs
+++Startup.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\startup.cs
+++Se detectó una dependencia de Base de datos de SQL Server con connectionId "ConnectionStrings:Connection"
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>1086
+++MessagePackAnalyzer
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\microsoft.netcore.app
+++Microsoft.AspNetCore.JsonPatch (6.0.0)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>456
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>618
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>616
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>617
+++Microsoft.Extensions.Caching.Abstractions (6.0.0)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>459
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>625
+++site.css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\css\site.css
+++site.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\js\site.js
+++bootstrap
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\
+++jquery
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery\
+++jquery-validation
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation-unobtrusive\
+++20220123122702_initialCreate.Designer.cs
+++dist
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery\dist\
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery\license.txt
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Aa
+++Shared
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\shared\
+++_Layout.cshtml
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\_viewstart.cshtml
+++Index.cshtml
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\home\index.cshtml
+++Views
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\
+++Home
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\views\home\
+++Swashbuckle.AspNetCore (6.2.3)
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:>1149
+++20220123142516_initialCreate.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\migrations\20220123142516_initialcreate.cs
+++20220123142516_initialCreate.Designer.cs
+i:{84112234-ae7d-4e43-aa18-1abe6ac7b582}:c:\users\usuario\source\repos\ejercicioalkemy2\ejercicioalkemy2\migrations\20220123142516_initialcreate.designer.cs
